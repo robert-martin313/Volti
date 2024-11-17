@@ -7,7 +7,6 @@
   [![YouTube Video Views](https://img.shields.io/youtube/views/EBS4Cl0IK2Q?style=social)](https://youtu.be/EBS4Cl0IK2Q)
 
   <br />
-  <br />
 
   <h2 align="center">Volti - Electric Vehicle Charging Website</h2>
 
